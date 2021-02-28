@@ -19,7 +19,7 @@ This app is a Node.js command-line application that takes in information about e
 
 ![tests](screenshots/TestsPass.png)
 
-* [video](https://drive.google.com/file/d/1Xf5RajZZzPuISYXqaW05Wcs3iENvWlFH/view/)
+* [video](https://drive.google.com/file/d/1Xf5RajZZzPuISYXqaW05Wcs3iENvWlFH/view)
   
 
 ## Technologies
