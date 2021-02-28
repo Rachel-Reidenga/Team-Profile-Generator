@@ -12,11 +12,12 @@ This app is a Node.js command-line application that takes in information about e
 * [Questions](#questions)
 
 ## Images
-* [output](screenshots/MyTeamApp.png)
 
-* [prompts](screenshots/prompts.png)
+![output](screenshots/MyTeamApp.png)
 
-* [tests](screenshots/TestsPass.png)
+![prompts](screenshots/prompts.png)
+
+![tests](screenshots/TestsPass.png)
 
 ## Technologies
 
